@@ -1,4 +1,4 @@
-# Angular 4 international phone prefix input
+# Angular 5 international phone prefix input
 
 ## Description
 This is a simple library with international phone prefix with flags images.
