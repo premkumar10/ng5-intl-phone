@@ -8,6 +8,9 @@
     "typings": "./ng5-intl-phone.d.ts",
     "author": "premkumar10",
     "license": "MIT",
+    "publishConfig": {
+        "registry":"https://npm.pkg.github.com/"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/premkumar10/ng5-intl-phone.git"
