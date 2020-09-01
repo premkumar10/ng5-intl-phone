@@ -14,7 +14,7 @@ To install this component to an external project, follow the procedure:
     import { NgModule } from '@angular/core';
     import { BrowserModule } from '@angular/platform-browser';
     import { MyTestApp } from './my-test-app';
-    import { InternationalPhoneModule } from 'ng4-intl-phone';
+    import { InternationalPhoneModule } from 'ng5-intl-phone';
 
     @NgModule({
         imports:      [ BrowserModule, InternationalPhoneModule ],
